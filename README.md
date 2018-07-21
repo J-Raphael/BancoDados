@@ -1,2 +1,0 @@
-# BancoDados
-Created with CodeSandbox
